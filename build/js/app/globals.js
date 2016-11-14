@@ -161,7 +161,7 @@ function initApp(){
         //$('.home-link').attr('src', globals.files.images.favicon);
         //$('.profile-text').html('<strong>'+(getUserCredentials() !== null ? getUserCredentials().name : "Unknown user")+'</strong>');
         //$('.profile-realm').html(window.localStorage.realm_full ? JSON.parse(window.localStorage.realm_full).name.substr(0, 30) : '');
-        $.mobile.keepNative = "select,input"; /* jQuery Mobile 1.4 and higher*/
+        //$.mobile.keepNative = "select,input"; /* jQuery Mobile 1.4 and higher*/
         //adjustHeightsToViewport();
         //loader.hide();
         /*if(customisationCount === 0){

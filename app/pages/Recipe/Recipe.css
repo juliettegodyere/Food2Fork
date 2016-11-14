@@ -1,0 +1,52 @@
+* O V E R R I D E   C S S   S T Y L E S  */
+
+/* O V E R R I D E   P A G E  */
+.applet-page {
+    background-color: black;
+}
+
+/* O V E R R I D E   H E A D E R   */
+.applet-header {
+    background-color: blue !important;
+    border: none;
+}
+.applet-header-title {
+    color: white;
+    font-weight: 50px;
+/*    margin-top: -5px;
+*//*    height: 50px;
+*//*    border-radius: 5px;
+*/}
+.applet-header-nav {
+    color: green !important;
+}
+
+/* O V E R R I D E   B O D Y   */
+.applet-body {
+/*    background-color: #ccc;
+*/    margin-top: -5px;
+    width: 100%;
+    height:100vh;
+}
+
+/* O V E R R I D E   F O O T E R   */
+.applet-footer {
+    background-color: #ccc !important;
+/*    border-color: black !important;
+*/}
+.applet-footer-inactive {
+    font-weight: 400 !important;
+    background-color: black !important;;
+    color: white !important;
+    border: none !important;
+}
+.applet-footer-active {
+    font-weight: 400 !important;
+    border: none !important;
+    border-top: 2px solid red !important;
+    background-color: black !important;
+    color: white !important;
+}
+.try{
+
+}
